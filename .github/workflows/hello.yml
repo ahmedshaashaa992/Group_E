@@ -1,0 +1,8 @@
+name : Windows Greeter
+on: [push]
+
+jobs:
+    greet:
+        runs-on : windows-latest
+        steps:
+            - run : write-Output " Hello from Ahmed Shaashaa ! you pushed YAML to Git!"
