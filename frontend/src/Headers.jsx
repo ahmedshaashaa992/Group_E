@@ -7,6 +7,7 @@ const Headers = () => {
       <div><h1 style={{color:"red"}}>Teacher: Ahmed Shaashaa</h1></div>
       <div><h1 style={{color:"yellow"}}>Students:</h1></div>
       <div><h2 style={{color:"blue"}}>Nawar</h2></div>
+      <div><h2 style={{color:"pink"}}>Safa</h2></div>
     </>
   )
 }
